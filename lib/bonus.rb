@@ -19,8 +19,8 @@ def bonus
       ]
    }
   }
-[:montague][:hero][:status] = dead
-[:capulet][:heroine][:status] = dead
+[:hero][:status] = dead
+[:heroine][:status] = dead
 
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
